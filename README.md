@@ -32,6 +32,9 @@
 		- [x] screw body width too small by 1mm
 		- [x] under-gpu height too high by 1mm
 		- [x] under-cowling support too short by 1.5mm
+	- [x] mobo block [cowling support height issue](./photos/mobo-block-cowling-support-height-issue.jpg)
+		- [x] under-cowling support now too high, especially to screw on back ([fixed by grinding, model corrected in V1.3](./photos/mobo-block-height-and-screw-issue.jpg))
+		- [ ] TO FIX IN V2: screw walls have very little lateral strength because of vertical printing
 
 - [x] Print
 	- [x] mobo block V1[.1](./files/mobo-holder-v1.1.stl)
@@ -45,6 +48,7 @@
 - [ ] Cleanup
 
 - [ ] Assemble
+		- [x] [mobo-block ~V1.3 standing up the mobo](./photos/mobo-block-freestanding.jpg)
 
 - [ ] Finish
 
