@@ -17,7 +17,7 @@
 	- [x] run benchmark
 
 - [ ] Design V1
-	- [x] mobo block [file](./photos/mobo-holder.stl)
+	- [x] mobo block
 		- [x] base screw plate
 	- [ ] gpu block
 		- [ ] base insert rest plate
@@ -27,15 +27,15 @@
 	- [ ] flexible hinged cowling for watercooling channels
 
 - [ ] Redesign issues found in V1
-	- [ ] mobo block [multiple](./photos/mobo-block-width-issues.jpg) [issues](./photos/mobo-block-screw-issue.jpg)
-		- [ ] too wide by 10mm 
-		- [ ] screw body width too small by 1mm
-		- [ ] under-gpu height too high by 1mm
-		- [ ] under-cowling support too short by 1.5mm
+	- [x] mobo block [multiple](./photos/mobo-block-width-issues.jpg) [issues](./photos/mobo-block-screw-issue.jpg)
+		- [x] too wide by 10mm 
+		- [x] screw body width too small by 1mm
+		- [x] under-gpu height too high by 1mm
+		- [x] under-cowling support too short by 1.5mm
 
-- [ ] Print
-	- [ ] mobo block
-	- [ ] mobo block redesign
+- [x] Print
+	- [x] mobo block V1[.1](./files/mobo-holder-v1.1.stl)
+	- [x] mobo block V1[.2](./files/mobo-holder-v1.2.stl) redesign
 
 - [ ] Redesign V2
 	- [ ] back support structure with window for mobo
