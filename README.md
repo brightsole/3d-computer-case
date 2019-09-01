@@ -20,10 +20,10 @@
 	- [x] mobo block
 		- [x] base screw plate
 	- [ ] gpu block
-		- [ ] base insert rest plate
+		- [x] base insert rest plate
 		- [ ] power access block
 	- [ ] hinge area
-	- [ ] interconnectors for blocks & block feet
+	- [x] interconnectors for blocks & block feet
 	- [ ] flexible hinged cowling for watercooling channels
 
 - [ ] Redesign issues found in V1
@@ -35,10 +35,17 @@
 	- [x] mobo block [cowling support height issue](./photos/mobo-block-cowling-support-height-issue.jpg)
 		- [x] under-cowling support now too high, especially to screw on back ([fixed by grinding, model corrected in V1.3](./photos/mobo-block-height-and-screw-issue.jpg))
 		- [ ] TO FIX IN V2: screw walls have very little lateral strength because of vertical printing
+	- [x] fans base foot [mild issues](./photos/fan-foot-issues.jpg)
+		- [x] too narrow by 0.5mm
+		- [x] front lip too short by 1.5mm
+		- [x] sharp edges with elephant foot overhang, and screw height
 
 - [x] Print
 	- [x] mobo block V1[.1](./files/mobo-holder-v1.1.stl)
 	- [x] mobo block V1[.2](./files/mobo-holder-v1.2.stl) redesign
+	- [x] fans base foot V1[.1](./files/fan-foot-v1.1.stl)
+	- [x] fans base foot V1[.2](./files/fan-foot-v1.2.stl) redesign
+	- [x] gpu block V1[.1](./files/gpu-block-v1.1.stl)
 
 - [ ] Redesign V2
 	- [ ] back support structure with window for mobo
