@@ -39,6 +39,8 @@
 		- [x] too narrow by 0.5mm
 		- [x] front lip too short by 1.5mm
 		- [x] sharp edges with elephant foot overhang, and screw height
+	- [x] gpu block [major issue](./photos/gpu-block-issue.jpg)
+		- [x] metal cowling hole too narrow
 
 - [x] Print
 	- [x] mobo block V1[.1](./files/mobo-holder-v1.1.stl)
@@ -47,15 +49,60 @@
 	- [x] fans base foot V1[.2](./files/fan-foot-v1.2.stl) redesign
 	- [x] gpu block V1[.1](./files/gpu-block-v1.1.stl)
 
+- [x] Describe Problems with V1
+	- layout [very cluttered](./photos/v1-full-layout.jpg)
+	- water cooling cables fight for space with psu cables
+	- large space caused by flat gpu extension
+	- good airflow; no dust protection
+	- no blocks connected
+	- no way to move, exposed dangerous places to touch
+	- power switches not designed into any block
+	- 3d printed plastic not durable
+	- neglected to design psu connection block
+	- hinge ideas scrapped after seeing pipe cluster
+
+---
+
+- [x] Describe V2
+	- rotate cooling block 90° to reduce pipe congestion
+	- elevate mobo and reduce lateral distance to gpu
+	- connect gpu & mobo blocks
+	- add handle to top of mobo/cooling tower
+	- shorten cables, or create cable hiding tower hinge
+	- add cutout to gpu block to insert power switches
+
 - [ ] Redesign V2
 	- [ ] back support structure with window for mobo
 	- [ ] hinged front cowling for mobo
 	- [ ] hollow structure for gpu & power switches
 
+- [ ] print V2
+	- [ ] gpu 1 || 2
+	- [ ] mobo 1 || 3
+	- [ ] psu connection system
+	- [ ] cooling tower connectors/supports
+	- [ ] handle
+
+---
+
+- [x] Describe V3
+	- create designs that are predominantly moulding
+	- design 3d printed parts that insert into fiberglass frame
+	- buy clear pla+ or PETG for case colour spice
+	- larger pieces in the shape of V2, but made of fiberglass with printed inserts, and structural rigidity created by folds
+
+- [ ] Redesign V3
+
+- [ ] print V3 mold pieces
+
+- [ ] Print V3 inserts
+
+---
+
 - [ ] Cleanup
 
 - [ ] Assemble
-		- [x] [mobo-block ~V1.3 standing up the mobo](./photos/mobo-block-freestanding.jpg)
+		- [x] [V1](./photos/v1-full-layout.jpg)
 
 - [ ] Finish
 
@@ -66,5 +113,10 @@
 
 
 - [ ] Software
-	- [ ] [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
+	- [x] [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
+	- [x] Docker for win10
+	- [x] WSL2 using `fast-ring` win10
+	- [x] Ubuntu
+	- [x] Zsh
+	- [ ] our git/npm keys
 
